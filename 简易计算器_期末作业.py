@@ -3,7 +3,7 @@
 功能：基本四则运算
 GUI：使用Tkinter库创建图形界面
 学号：2025321024
-作者：刘垲
+作者：wyktt
 """
 
 # 导入GUI界面模块并命名其为tk,导入信息弹窗
@@ -136,4 +136,5 @@ root.withdraw()
 show_instructions()
 root.deiconify()
 # 启动主循环
+
 root.mainloop()
