@@ -1,0 +1,13 @@
+# Python 科学计算器项目依赖
+# 主要依赖
+python>=3.8
+
+# GUI库
+tkinter  # Python内置，这里只是注明
+
+# 可选：如果要添加图表功能
+# matplotlib>=3.5.0
+
+# 开发依赖（可选）
+# pylint>=2.13.0
+# autopep8>=1.6.0
